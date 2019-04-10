@@ -7,12 +7,18 @@ O fim da sequência de entrada é dado pelo fim do arquivo.
 
 Exemplo de entrada:
 AA
+
 ATTG
+
 CATTAGGAATT
+
 T
 
 Exemplo de saída (usando uma tabela aleatória):
 00 87,5
+
 01111101 83,3
+
 1101011010110110001111 75,0
+
 110 62,5
