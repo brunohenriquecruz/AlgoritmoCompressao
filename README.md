@@ -7,6 +7,7 @@ contendo a sequência de bits resultante e a taxa de compressão atingida, com u
 O fim da sequência de entrada é dado pelo fim do arquivo.
 
 **Exemplo de entrada:**
+
 AA
 
 ATTG
@@ -16,6 +17,7 @@ CATTAGGAATT
 T
 
 **Exemplo de saída (usando uma tabela aleatória):**
+
 00 87,5
 
 01111101 83,3
